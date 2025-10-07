@@ -1,9 +1,9 @@
-package sk.waybehind.task_management_system.implementation.api.request;
+package sk.waybehind.task_management_system.api.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import sk.waybehind.task_management_system.implementation.domain.TaskStatus;
+import sk.waybehind.task_management_system.domain.TaskStatus;
 
 public class TaskEditRequest {
 

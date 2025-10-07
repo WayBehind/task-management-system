@@ -1,4 +1,4 @@
-package sk.waybehind.task_management_system.implementation.domain;
+package sk.waybehind.task_management_system.domain;
 
 import lombok.Value;
 

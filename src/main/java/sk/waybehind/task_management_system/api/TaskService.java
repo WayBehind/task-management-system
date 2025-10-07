@@ -1,9 +1,9 @@
-package sk.waybehind.task_management_system.implementation.api;
+package sk.waybehind.task_management_system.api;
 
-import sk.waybehind.task_management_system.implementation.api.request.TaskAddRequest;
-import sk.waybehind.task_management_system.implementation.api.request.TaskEditRequest;
-import sk.waybehind.task_management_system.implementation.domain.Task;
-import sk.waybehind.task_management_system.implementation.domain.TaskStatus;
+import sk.waybehind.task_management_system.api.request.TaskAddRequest;
+import sk.waybehind.task_management_system.api.request.TaskEditRequest;
+import sk.waybehind.task_management_system.domain.Task;
+import sk.waybehind.task_management_system.domain.TaskStatus;
 
 import java.util.List;
 

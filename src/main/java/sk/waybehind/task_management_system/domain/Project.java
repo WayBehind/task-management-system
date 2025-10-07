@@ -1,16 +1,14 @@
-package sk.waybehind.task_management_system.implementation.domain;
+package sk.waybehind.task_management_system.domain;
 
 import lombok.Value;
 
 import java.time.OffsetDateTime;
 
 @Value
-public class Task {
+public class Project {
     long id;
     long userId;
-    Long projectId;
     String name;
     String description;
-    TaskStatus status;
     OffsetDateTime createdAt;
 }
